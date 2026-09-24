@@ -9,216 +9,279 @@
       <data key="d1">28585</data>
       <data key="d2">1</data>
     </node>
-    <node id="Unidentified Anti-Coup Armed Group">
-      <data key="d1">3623</data>
-      <data key="d2">2</data>
-    </node>
     <node id="Police Forces of Myanmar (2021-)">
       <data key="d1">3159</data>
-      <data key="d2">3</data>
+      <data key="d2">2</data>
     </node>
     <node id="Pyu Saw Htee">
       <data key="d1">2834</data>
-      <data key="d2">4</data>
+      <data key="d2">3</data>
     </node>
     <node id="KIO/KIA: Kachin Independence Organization/Kachin Independence Army">
       <data key="d1">1719</data>
-      <data key="d2">5</data>
+      <data key="d2">4</data>
     </node>
     <node id="KNU/KNLA: Karen National Union/Karen National Liberation Army">
       <data key="d1">1679</data>
-      <data key="d2">6</data>
+      <data key="d2">5</data>
     </node>
     <node id="ULA/AA: United League of Arakan/Arakan Army">
       <data key="d1">1429</data>
-      <data key="d2">7</data>
+      <data key="d2">6</data>
     </node>
     <node id="PDF: People's Defense Force">
       <data key="d1">1282</data>
-      <data key="d2">8</data>
-    </node>
-    <node id="Unidentified Armed Group (Myanmar)">
-      <data key="d1">1023</data>
-      <data key="d2">9</data>
+      <data key="d2">7</data>
     </node>
     <node id="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
       <data key="d1">910</data>
-      <data key="d2">10</data>
+      <data key="d2">8</data>
     </node>
     <node id="KNDF: Karenni Nationalities Defense Force">
       <data key="d1">761</data>
-      <data key="d2">11</data>
+      <data key="d2">9</data>
     </node>
     <node id="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army">
       <data key="d1">547</data>
-      <data key="d2">12</data>
+      <data key="d2">10</data>
     </node>
     <node id="Government of Myanmar (2021-) State Administration Council">
       <data key="d1">524</data>
-      <data key="d2">13</data>
+      <data key="d2">11</data>
     </node>
     <node id="KNPP/KA: Karenni National Progressive Party/Karenni Army">
       <data key="d1">442</data>
-      <data key="d2">14</data>
+      <data key="d2">12</data>
     </node>
     <node id="NLD: National League for Democracy">
       <data key="d1">399</data>
-      <data key="d2">15</data>
+      <data key="d2">13</data>
     </node>
     <node id="People's Defense Force - Myaing">
       <data key="d1">396</data>
-      <data key="d2">16</data>
+      <data key="d2">14</data>
     </node>
     <node id="Military Forces of Myanmar (2021-) People's Militia Force">
       <data key="d1">357</data>
-      <data key="d2">17</data>
+      <data key="d2">15</data>
     </node>
     <node id="Military Forces of Myanmar (2021-) Border Guard Force">
       <data key="d1">309</data>
-      <data key="d2">18</data>
+      <data key="d2">16</data>
     </node>
     <node id="CNF/CNA: Chin National Front/Chin National Army">
       <data key="d1">273</data>
-      <data key="d2">19</data>
+      <data key="d2">17</data>
     </node>
     <node id="People's Defense Force - Mandalay">
       <data key="d1">267</data>
-      <data key="d2">20</data>
+      <data key="d2">18</data>
     </node>
     <node id="KPDF: Kachin Region People's Defense Force">
       <data key="d1">263</data>
-      <data key="d2">21</data>
+      <data key="d2">19</data>
     </node>
     <node id="SNA: Shanni Nationalities Army">
       <data key="d1">226</data>
-      <data key="d2">22</data>
+      <data key="d2">20</data>
     </node>
     <node id="Military Forces of North Korea (2011-)">
       <data key="d1">226</data>
-      <data key="d2">23</data>
+      <data key="d2">21</data>
     </node>
     <node id="People's Defense Force - Shwebo District">
       <data key="d1">213</data>
-      <data key="d2">24</data>
+      <data key="d2">22</data>
     </node>
     <node id="ABSDF: All Burma Students' Democratic Front">
       <data key="d1">212</data>
-      <data key="d2">25</data>
+      <data key="d2">23</data>
     </node>
     <node id="People's Defense Force - Monywa District">
       <data key="d1">212</data>
-      <data key="d2">26</data>
+      <data key="d2">24</data>
     </node>
     <node id="People's Defense Force - Myingyan District">
       <data key="d1">204</data>
-      <data key="d2">27</data>
+      <data key="d2">25</data>
     </node>
     <node id="People's Defense Force - Demoso">
       <data key="d1">201</data>
-      <data key="d2">28</data>
+      <data key="d2">26</data>
     </node>
     <node id="SSPP/SSA-N: Shan State Progress Party/Shan State Army-North">
       <data key="d1">200</data>
-      <data key="d2">29</data>
+      <data key="d2">27</data>
     </node>
     <node id="Police Forces of Myanmar (2021-) Border Guard Police">
       <data key="d1">191</data>
-      <data key="d2">30</data>
+      <data key="d2">28</data>
     </node>
     <node id="Government of Myanmar (2016-)">
       <data key="d1">191</data>
-      <data key="d2">31</data>
+      <data key="d2">29</data>
     </node>
     <node id="People's Defense Force - Pakokku District">
       <data key="d1">182</data>
-      <data key="d2">32</data>
+      <data key="d2">30</data>
     </node>
     <node id="KNDO: Karen National Defence Organization">
       <data key="d1">181</data>
-      <data key="d2">33</data>
+      <data key="d2">31</data>
     </node>
     <node id="Chinland Defense Force - Mindat">
       <data key="d1">174</data>
-      <data key="d2">34</data>
+      <data key="d2">32</data>
     </node>
     <node id="People's Defense Force - Kalay">
       <data key="d1">170</data>
-      <data key="d2">35</data>
+      <data key="d2">33</data>
     </node>
     <node id="RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South">
       <data key="d1">163</data>
-      <data key="d2">36</data>
+      <data key="d2">34</data>
     </node>
     <node id="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
       <data key="d1">163</data>
-      <data key="d2">37</data>
+      <data key="d2">35</data>
     </node>
     <node id="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
       <data key="d1">157</data>
-      <data key="d2">38</data>
+      <data key="d2">36</data>
     </node>
     <node id="People's Defense Force - Yesagyo">
       <data key="d1">152</data>
-      <data key="d2">39</data>
+      <data key="d2">37</data>
     </node>
     <node id="People's Defense Force - Pekon">
       <data key="d1">145</data>
-      <data key="d2">40</data>
+      <data key="d2">38</data>
     </node>
     <node id="People's Security Force">
       <data key="d1">141</data>
-      <data key="d2">41</data>
+      <data key="d2">39</data>
     </node>
     <node id="Chinland Defense Force - Hakha">
       <data key="d1">138</data>
-      <data key="d2">42</data>
+      <data key="d2">40</data>
     </node>
     <node id="CNO/CNDF: Chin National Organization/Chin National Defense Force">
       <data key="d1">137</data>
-      <data key="d2">43</data>
+      <data key="d2">41</data>
     </node>
     <node id="Kani People's Defense Force - KLG">
       <data key="d1">134</data>
-      <data key="d2">44</data>
+      <data key="d2">42</data>
     </node>
     <node id="Cobra Column">
       <data key="d1">134</data>
-      <data key="d2">45</data>
+      <data key="d2">43</data>
     </node>
     <node id="People's Defense Force - Launglon">
       <data key="d1">129</data>
-      <data key="d2">46</data>
+      <data key="d2">44</data>
     </node>
     <node id="People's Defense Force - Yinmarbin District">
       <data key="d1">129</data>
-      <data key="d2">47</data>
+      <data key="d2">45</data>
     </node>
     <node id="People's Defense Force - Gangaw District">
       <data key="d1">129</data>
-      <data key="d2">48</data>
+      <data key="d2">46</data>
     </node>
     <node id="People's Defense Force - Myeik District">
       <data key="d1">127</data>
-      <data key="d2">49</data>
+      <data key="d2">47</data>
     </node>
     <node id="People's Defense Force - Sagaing District">
       <data key="d1">123</data>
+      <data key="d2">48</data>
+    </node>
+    <node id="People's Defense Force - Loikaw">
+      <data key="d1">121</data>
+      <data key="d2">49</data>
+    </node>
+    <node id="Chinland Defense Force - Thantlang">
+      <data key="d1">115</data>
       <data key="d2">50</data>
     </node>
-    <edge source="Military Forces of Myanmar (2021-)" target="ULA/AA: United League of Arakan/Arakan Army">
-      <data key="d3">1279</data>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Pekon">
+      <data key="d3">142</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="KIO/KIA: Kachin Independence Organization/Kachin Independence Army">
+      <data key="d3">1595</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="SSPP/SSA-N: Shan State Progress Party/Shan State Army-North">
+      <data key="d3">27</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Launglon">
+      <data key="d3">84</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Demoso">
+      <data key="d3">196</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army">
+      <data key="d3">510</data>
     </edge>
     <edge source="Military Forces of Myanmar (2021-)" target="Kani People's Defense Force - KLG">
       <data key="d3">129</data>
     </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="Chinland Defense Force - Mindat">
-      <data key="d3">166</data>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Yesagyo">
+      <data key="d3">130</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="KNDF: Karenni Nationalities Defense Force">
+      <data key="d3">743</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="KPDF: Kachin Region People's Defense Force">
+      <data key="d3">247</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Loikaw">
+      <data key="d3">120</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
+      <data key="d3">792</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Gangaw District">
+      <data key="d3">110</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Myeik District">
+      <data key="d3">118</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="ULA/AA: United League of Arakan/Arakan Army">
+      <data key="d3">1279</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Pakokku District">
+      <data key="d3">159</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">121</data>
     </edge>
     <edge source="Military Forces of Myanmar (2021-)" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
       <data key="d3">148</data>
     </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="KNDF: Karenni Nationalities Defense Force">
-      <data key="d3">743</data>
+    <edge source="Military Forces of Myanmar (2021-)" target="CNF/CNA: Chin National Front/Chin National Army">
+      <data key="d3">236</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="Cobra Column">
+      <data key="d3">131</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="Chinland Defense Force - Mindat">
+      <data key="d3">166</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Myingyan District">
+      <data key="d3">184</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Shwebo District">
+      <data key="d3">197</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="Chinland Defense Force - Hakha">
+      <data key="d3">127</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Sagaing District">
+      <data key="d3">113</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Kalay">
+      <data key="d3">162</data>
     </edge>
     <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Myaing">
       <data key="d3">350</data>
@@ -226,167 +289,29 @@
     <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Monywa District">
       <data key="d3">192</data>
     </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="Chinland Defense Force - Hakha">
-      <data key="d3">127</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="KIO/KIA: Kachin Independence Organization/Kachin Independence Army">
-      <data key="d3">1595</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
-      <data key="d3">792</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Yinmarbin District">
-      <data key="d3">121</data>
+    <edge source="Military Forces of Myanmar (2021-)" target="People's Security Force">
+      <data key="d3">111</data>
     </edge>
     <edge source="Military Forces of Myanmar (2021-)" target="CNO/CNDF: Chin National Organization/Chin National Defense Force">
       <data key="d3">130</data>
     </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="Cobra Column">
-      <data key="d3">131</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="KNPP/KA: Karenni National Progressive Party/Karenni Army">
-      <data key="d3">435</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="SSPP/SSA-N: Shan State Progress Party/Shan State Army-North">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Sagaing District">
-      <data key="d3">113</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Yesagyo">
-      <data key="d3">130</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Gangaw District">
-      <data key="d3">110</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Security Force">
-      <data key="d3">111</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="Government of Myanmar (2016-)">
-      <data key="d3">163</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="CNF/CNA: Chin National Front/Chin National Army">
-      <data key="d3">236</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Shwebo District">
-      <data key="d3">197</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="KNDO: Karen National Defence Organization">
-      <data key="d3">169</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="Unidentified Anti-Coup Armed Group">
-      <data key="d3">3359</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Demoso">
-      <data key="d3">196</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Myeik District">
-      <data key="d3">118</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Myingyan District">
-      <data key="d3">184</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="KNU/KNLA: Karen National Union/Karen National Liberation Army">
-      <data key="d3">1578</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Kalay">
-      <data key="d3">162</data>
-    </edge>
     <edge source="Military Forces of Myanmar (2021-)" target="NLD: National League for Democracy">
       <data key="d3">367</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Pakokku District">
-      <data key="d3">159</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army">
-      <data key="d3">510</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="KPDF: Kachin Region People's Defense Force">
-      <data key="d3">247</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Pekon">
-      <data key="d3">142</data>
     </edge>
     <edge source="Military Forces of Myanmar (2021-)" target="ABSDF: All Burma Students' Democratic Front">
       <data key="d3">203</data>
     </edge>
-    <edge source="Military Forces of Myanmar (2021-)" target="People's Defense Force - Launglon">
-      <data key="d3">84</data>
+    <edge source="Military Forces of Myanmar (2021-)" target="KNPP/KA: Karenni National Progressive Party/Karenni Army">
+      <data key="d3">435</data>
     </edge>
-    <edge source="Unidentified Anti-Coup Armed Group" target="Military Forces of Myanmar (2021-) People's Militia Force">
-      <data key="d3">24</data>
+    <edge source="Military Forces of Myanmar (2021-)" target="Government of Myanmar (2016-)">
+      <data key="d3">163</data>
     </edge>
-    <edge source="Unidentified Anti-Coup Armed Group" target="Police Forces of Myanmar (2021-)">
-      <data key="d3">281</data>
+    <edge source="Military Forces of Myanmar (2021-)" target="KNDO: Karen National Defence Organization">
+      <data key="d3">169</data>
     </edge>
-    <edge source="Unidentified Anti-Coup Armed Group" target="Unidentified Armed Group (Myanmar)">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="Unidentified Anti-Coup Armed Group" target="Pyu Saw Htee">
-      <data key="d3">450</data>
-    </edge>
-    <edge source="Unidentified Anti-Coup Armed Group" target="SNA: Shanni Nationalities Army">
-      <data key="d3">59</data>
-    </edge>
-    <edge source="Unidentified Anti-Coup Armed Group" target="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
-      <data key="d3">43</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="KPDF: Kachin Region People's Defense Force">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="PDF: People's Defense Force">
-      <data key="d3">124</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Myeik District">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Security Force">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Myingyan District">
-      <data key="d3">50</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Gangaw District">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Demoso">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Sagaing District">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="Cobra Column">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="NLD: National League for Democracy">
-      <data key="d3">85</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="Kani People's Defense Force - KLG">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="Chinland Defense Force - Mindat">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Kalay">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="KNDF: Karenni Nationalities Defense Force">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="Chinland Defense Force - Hakha">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Launglon">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="ULA/AA: United League of Arakan/Arakan Army">
-      <data key="d3">78</data>
+    <edge source="Military Forces of Myanmar (2021-)" target="KNU/KNLA: Karen National Union/Karen National Liberation Army">
+      <data key="d3">1578</data>
     </edge>
     <edge source="Police Forces of Myanmar (2021-)" target="CNF/CNA: Chin National Front/Chin National Army">
       <data key="d3">27</data>
@@ -394,41 +319,68 @@
     <edge source="Police Forces of Myanmar (2021-)" target="SSPP/SSA-N: Shan State Progress Party/Shan State Army-North">
       <data key="d3">1</data>
     </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Mandalay">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="KIO/KIA: Kachin Independence Organization/Kachin Independence Army">
-      <data key="d3">88</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Pakokku District">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Pekon">
+    <edge source="Police Forces of Myanmar (2021-)" target="Cobra Column">
       <data key="d3">4</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="KNU/KNLA: Karen National Union/Karen National Liberation Army">
-      <data key="d3">89</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="CNO/CNDF: Chin National Organization/Chin National Defense Force">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Yinmarbin District">
-      <data key="d3">25</data>
     </edge>
     <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Myaing">
       <data key="d3">82</data>
     </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="KNPP/KA: Karenni National Progressive Party/Karenni Army">
-      <data key="d3">12</data>
+    <edge source="Police Forces of Myanmar (2021-)" target="Kani People's Defense Force - KLG">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="Chinland Defense Force - Mindat">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Mandalay">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Myeik District">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Gangaw District">
+      <data key="d3">31</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="PDF: People's Defense Force">
+      <data key="d3">124</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="ULA/AA: United League of Arakan/Arakan Army">
+      <data key="d3">78</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Kalay">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Myingyan District">
+      <data key="d3">50</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="CNO/CNDF: Chin National Organization/Chin National Defense Force">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Pakokku District">
+      <data key="d3">32</data>
     </edge>
     <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Monywa District">
       <data key="d3">36</data>
     </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Yesagyo">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Loikaw">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="Chinland Defense Force - Thantlang">
+      <data key="d3">16</data>
+    </edge>
     <edge source="Police Forces of Myanmar (2021-)" target="ABSDF: All Burma Students' Democratic Front">
       <data key="d3">42</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Launglon">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="KNPP/KA: Karenni National Progressive Party/Karenni Army">
+      <data key="d3">12</data>
     </edge>
     <edge source="Police Forces of Myanmar (2021-)" target="Government of Myanmar (2016-)">
       <data key="d3">36</data>
@@ -439,59 +391,113 @@
     <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Shwebo District">
       <data key="d3">34</data>
     </edge>
-    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Yesagyo">
-      <data key="d3">17</data>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Pekon">
+      <data key="d3">4</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="CNF/CNA: Chin National Front/Chin National Army">
-      <data key="d3">1</data>
+    <edge source="Police Forces of Myanmar (2021-)" target="KIO/KIA: Kachin Independence Organization/Kachin Independence Army">
+      <data key="d3">88</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="People's Defense Force - Mandalay">
-      <data key="d3">13</data>
+    <edge source="Police Forces of Myanmar (2021-)" target="Chinland Defense Force - Hakha">
+      <data key="d3">18</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="KNDO: Karen National Defence Organization">
-      <data key="d3">7</data>
+    <edge source="Police Forces of Myanmar (2021-)" target="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army">
+      <data key="d3">10</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
-      <data key="d3">3</data>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Sagaing District">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="KNDF: Karenni Nationalities Defense Force">
+      <data key="d3">23</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="KPDF: Kachin Region People's Defense Force">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Security Force">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="People's Defense Force - Demoso">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="KNU/KNLA: Karen National Union/Karen National Liberation Army">
+      <data key="d3">89</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="NLD: National League for Democracy">
+      <data key="d3">85</data>
     </edge>
     <edge source="Pyu Saw Htee" target="People's Defense Force - Pakokku District">
       <data key="d3">66</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="KNU/KNLA: Karen National Union/Karen National Liberation Army">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="People's Defense Force - Yinmarbin District">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="KPDF: Kachin Region People's Defense Force">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="People's Defense Force - Myaing">
-      <data key="d3">129</data>
-    </edge>
     <edge source="Pyu Saw Htee" target="People's Defense Force - Monywa District">
       <data key="d3">52</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="ABSDF: All Burma Students' Democratic Front">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="Government of Myanmar (2016-)">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="People's Defense Force - Gangaw District">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="People's Defense Force - Shwebo District">
-      <data key="d3">79</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="People's Defense Force - Sagaing District">
-      <data key="d3">29</data>
     </edge>
     <edge source="Pyu Saw Htee" target="People's Defense Force - Yesagyo">
       <data key="d3">37</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="NLD: National League for Democracy">
-      <data key="d3">19</data>
+    <edge source="Pyu Saw Htee" target="People's Defense Force - Mandalay">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="Chinland Defense Force - Thantlang">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="ABSDF: All Burma Students' Democratic Front">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="PDF: People's Defense Force">
+      <data key="d3">125</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="People's Defense Force - Launglon">
+      <data key="d3">46</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="Government of Myanmar (2016-)">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="KNDO: Karen National Defence Organization">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="People's Defense Force - Shwebo District">
+      <data key="d3">79</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="Chinland Defense Force - Hakha">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="People's Defense Force - Sagaing District">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="KPDF: Kachin Region People's Defense Force">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="People's Security Force">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="ULA/AA: United League of Arakan/Arakan Army">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="KNU/KNLA: Karen National Union/Karen National Liberation Army">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="KIO/KIA: Kachin Independence Organization/Kachin Independence Army">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="CNF/CNA: Chin National Front/Chin National Army">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="People's Defense Force - Myaing">
+      <data key="d3">129</data>
     </edge>
     <edge source="Pyu Saw Htee" target="Kani People's Defense Force - KLG">
       <data key="d3">25</data>
@@ -499,29 +505,17 @@
     <edge source="Pyu Saw Htee" target="Chinland Defense Force - Mindat">
       <data key="d3">1</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="PDF: People's Defense Force">
-      <data key="d3">125</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="Chinland Defense Force - Hakha">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="Pyu Saw Htee" target="People's Defense Force - Launglon">
-      <data key="d3">46</data>
-    </edge>
     <edge source="Pyu Saw Htee" target="People's Defense Force - Myeik District">
       <data key="d3">13</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="People's Security Force">
-      <data key="d3">32</data>
+    <edge source="Pyu Saw Htee" target="People's Defense Force - Gangaw District">
+      <data key="d3">23</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="KIO/KIA: Kachin Independence Organization/Kachin Independence Army">
-      <data key="d3">10</data>
+    <edge source="Pyu Saw Htee" target="People's Defense Force - Kalay">
+      <data key="d3">23</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="ULA/AA: United League of Arakan/Arakan Army">
-      <data key="d3">1</data>
+    <edge source="Pyu Saw Htee" target="NLD: National League for Democracy">
+      <data key="d3">19</data>
     </edge>
     <edge source="Pyu Saw Htee" target="People's Defense Force - Myingyan District">
       <data key="d3">49</data>
@@ -529,26 +523,23 @@
     <edge source="Pyu Saw Htee" target="CNO/CNDF: Chin National Organization/Chin National Defense Force">
       <data key="d3">7</data>
     </edge>
-    <edge source="Pyu Saw Htee" target="People's Defense Force - Kalay">
-      <data key="d3">23</data>
+    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="SNA: Shanni Nationalities Army">
+      <data key="d3">67</data>
     </edge>
     <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="Government of Myanmar (2021-) State Administration Council">
       <data key="d3">1</data>
     </edge>
-    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="SNA: Shanni Nationalities Army">
-      <data key="d3">67</data>
+    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="Military Forces of Myanmar (2021-) People's Militia Force">
+      <data key="d3">101</data>
     </edge>
     <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="Military Forces of Myanmar (2021-) Border Guard Force">
       <data key="d3">22</data>
     </edge>
-    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="Military Forces of Myanmar (2021-) People's Militia Force">
-      <data key="d3">101</data>
+    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="Government of Myanmar (2021-) State Administration Council">
+      <data key="d3">4</data>
     </edge>
     <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="Police Forces of Myanmar (2021-) Border Guard Police">
       <data key="d3">1</data>
-    </edge>
-    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="Government of Myanmar (2021-) State Administration Council">
-      <data key="d3">4</data>
     </edge>
     <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="Military Forces of Myanmar (2021-) People's Militia Force">
       <data key="d3">3</data>
@@ -556,89 +547,53 @@
     <edge source="ULA/AA: United League of Arakan/Arakan Army" target="Government of Myanmar (2021-) State Administration Council">
       <data key="d3">4</data>
     </edge>
-    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="Chinland Defense Force - Mindat">
-      <data key="d3">1</data>
-    </edge>
     <edge source="ULA/AA: United League of Arakan/Arakan Army" target="Military Forces of Myanmar (2021-) People's Militia Force">
       <data key="d3">9</data>
-    </edge>
-    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="Military Forces of Myanmar (2021-) Border Guard Force">
-      <data key="d3">3</data>
     </edge>
     <edge source="ULA/AA: United League of Arakan/Arakan Army" target="CNF/CNA: Chin National Front/Chin National Army">
       <data key="d3">3</data>
     </edge>
-    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="Police Forces of Myanmar (2021-) Border Guard Police">
-      <data key="d3">141</data>
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="Military Forces of Myanmar (2021-) Border Guard Force">
+      <data key="d3">3</data>
     </edge>
-    <edge source="PDF: People's Defense Force" target="Military Forces of Myanmar (2021-) Border Guard Force">
-      <data key="d3">37</data>
-    </edge>
-    <edge source="PDF: People's Defense Force" target="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PDF: People's Defense Force" target="Government of Myanmar (2021-) State Administration Council">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="PDF: People's Defense Force" target="Police Forces of Myanmar (2021-) Border Guard Police">
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="Chinland Defense Force - Mindat">
       <data key="d3">1</data>
     </edge>
-    <edge source="PDF: People's Defense Force" target="SNA: Shanni Nationalities Army">
-      <data key="d3">35</data>
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="Police Forces of Myanmar (2021-) Border Guard Police">
+      <data key="d3">141</data>
     </edge>
     <edge source="PDF: People's Defense Force" target="Military Forces of Myanmar (2021-) People's Militia Force">
       <data key="d3">22</data>
     </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="Military Forces of Myanmar (2021-) Border Guard Force">
-      <data key="d3">8</data>
+    <edge source="PDF: People's Defense Force" target="Military Forces of Myanmar (2021-) Border Guard Force">
+      <data key="d3">37</data>
     </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="CNF/CNA: Chin National Front/Chin National Army">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="Police Forces of Myanmar (2021-) Border Guard Police">
+    <edge source="PDF: People's Defense Force" target="Police Forces of Myanmar (2021-) Border Guard Police">
       <data key="d3">1</data>
     </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
-      <data key="d3">1</data>
+    <edge source="PDF: People's Defense Force" target="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
+      <data key="d3">4</data>
     </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
-      <data key="d3">3</data>
+    <edge source="PDF: People's Defense Force" target="SNA: Shanni Nationalities Army">
+      <data key="d3">35</data>
     </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="KPDF: Kachin Region People's Defense Force">
-      <data key="d3">1</data>
-    </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South">
-      <data key="d3">1</data>
-    </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
-      <data key="d3">1</data>
-    </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army">
-      <data key="d3">1</data>
-    </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="People's Defense Force - Launglon">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="People's Defense Force - Kalay">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="Unidentified Armed Group (Myanmar)" target="CNO/CNDF: Chin National Organization/Chin National Defense Force">
-      <data key="d3">1</data>
-    </edge>
-    <edge source="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army" target="Government of Myanmar (2021-) State Administration Council">
-      <data key="d3">1</data>
+    <edge source="PDF: People's Defense Force" target="Government of Myanmar (2021-) State Administration Council">
+      <data key="d3">12</data>
     </edge>
     <edge source="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army" target="Military Forces of Myanmar (2021-) People's Militia Force">
       <data key="d3">40</data>
     </edge>
-    <edge source="KNDF: Karenni Nationalities Defense Force" target="Military Forces of Myanmar (2021-) Border Guard Force">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KNDF: Karenni Nationalities Defense Force" target="Military Forces of Myanmar (2021-) People's Militia Force">
+    <edge source="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army" target="Government of Myanmar (2021-) State Administration Council">
       <data key="d3">1</data>
     </edge>
     <edge source="KNDF: Karenni Nationalities Defense Force" target="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
       <data key="d3">25</data>
+    </edge>
+    <edge source="KNDF: Karenni Nationalities Defense Force" target="Military Forces of Myanmar (2021-) People's Militia Force">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="KNDF: Karenni Nationalities Defense Force" target="Military Forces of Myanmar (2021-) Border Guard Force">
+      <data key="d3">2</data>
     </edge>
     <edge source="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army" target="Government of Myanmar (2021-) State Administration Council">
       <data key="d3">3</data>
@@ -646,22 +601,25 @@
     <edge source="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army" target="Military Forces of Myanmar (2021-) Border Guard Force">
       <data key="d3">5</data>
     </edge>
-    <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Defense Force - Launglon">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Defense Force - Yinmarbin District">
-      <data key="d3">1</data>
-    </edge>
     <edge source="Government of Myanmar (2021-) State Administration Council" target="Chinland Defense Force - Hakha">
       <data key="d3">1</data>
     </edge>
     <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Defense Force - Yesagyo">
       <data key="d3">2</data>
     </edge>
+    <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Defense Force - Myeik District">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Defense Force - Launglon">
+      <data key="d3">2</data>
+    </edge>
     <edge source="Government of Myanmar (2021-) State Administration Council" target="RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South">
       <data key="d3">1</data>
     </edge>
-    <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Security Force">
+    <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Defense Force - Myingyan District">
       <data key="d3">1</data>
     </edge>
     <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Defense Force - Shwebo District">
@@ -670,23 +628,20 @@
     <edge source="Government of Myanmar (2021-) State Administration Council" target="KNDO: Karen National Defence Organization">
       <data key="d3">1</data>
     </edge>
-    <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Defense Force - Myeik District">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Defense Force - Myingyan District">
+    <edge source="Government of Myanmar (2021-) State Administration Council" target="People's Security Force">
       <data key="d3">1</data>
     </edge>
     <edge source="Government of Myanmar (2021-) State Administration Council" target="ABSDF: All Burma Students' Democratic Front">
       <data key="d3">1</data>
     </edge>
-    <edge source="KNPP/KA: Karenni National Progressive Party/Karenni Army" target="Military Forces of Myanmar (2021-) Border Guard Force">
-      <data key="d3">2</data>
+    <edge source="KNPP/KA: Karenni National Progressive Party/Karenni Army" target="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
+      <data key="d3">7</data>
     </edge>
     <edge source="KNPP/KA: Karenni National Progressive Party/Karenni Army" target="Military Forces of Myanmar (2021-) People's Militia Force">
       <data key="d3">1</data>
     </edge>
-    <edge source="KNPP/KA: Karenni National Progressive Party/Karenni Army" target="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
-      <data key="d3">7</data>
+    <edge source="KNPP/KA: Karenni National Progressive Party/Karenni Army" target="Military Forces of Myanmar (2021-) Border Guard Force">
+      <data key="d3">2</data>
     </edge>
     <edge source="NLD: National League for Democracy" target="Military Forces of Myanmar (2021-) Border Guard Force">
       <data key="d3">2</data>
@@ -694,23 +649,23 @@
     <edge source="People's Defense Force - Myaing" target="Military Forces of Myanmar (2021-) People's Militia Force">
       <data key="d3">3</data>
     </edge>
+    <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="People's Security Force">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="Chinland Defense Force - Hakha">
+      <data key="d3">1</data>
+    </edge>
     <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South">
       <data key="d3">1</data>
     </edge>
     <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="People's Defense Force - Myingyan District">
       <data key="d3">1</data>
     </edge>
-    <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="KPDF: Kachin Region People's Defense Force">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="Chinland Defense Force - Hakha">
-      <data key="d3">1</data>
-    </edge>
-    <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="People's Security Force">
-      <data key="d3">3</data>
-    </edge>
     <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="ABSDF: All Burma Students' Democratic Front">
       <data key="d3">1</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="KPDF: Kachin Region People's Defense Force">
+      <data key="d3">12</data>
     </edge>
     <edge source="Military Forces of Myanmar (2021-) Border Guard Force" target="People's Defense Force - Pakokku District">
       <data key="d3">1</data>
@@ -718,20 +673,17 @@
     <edge source="Military Forces of Myanmar (2021-) Border Guard Force" target="Cobra Column">
       <data key="d3">31</data>
     </edge>
-    <edge source="Military Forces of Myanmar (2021-) Border Guard Force" target="KNDO: Karen National Defence Organization">
-      <data key="d3">17</data>
-    </edge>
     <edge source="Military Forces of Myanmar (2021-) Border Guard Force" target="People's Defense Force - Monywa District">
       <data key="d3">1</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-) Border Guard Force" target="KNDO: Karen National Defence Organization">
+      <data key="d3">17</data>
     </edge>
     <edge source="Military Forces of Myanmar (2021-) Border Guard Force" target="KPDF: Kachin Region People's Defense Force">
       <data key="d3">6</data>
     </edge>
     <edge source="KPDF: Kachin Region People's Defense Force" target="SNA: Shanni Nationalities Army">
       <data key="d3">21</data>
-    </edge>
-    <edge source="SNA: Shanni Nationalities Army" target="People's Defense Force - Sagaing District">
-      <data key="d3">1</data>
     </edge>
     <edge source="SNA: Shanni Nationalities Army" target="People's Defense Force - Yinmarbin District">
       <data key="d3">1</data>
@@ -743,6 +695,9 @@
       <data key="d3">3</data>
     </edge>
     <edge source="SNA: Shanni Nationalities Army" target="People's Defense Force - Shwebo District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SNA: Shanni Nationalities Army" target="People's Defense Force - Sagaing District">
       <data key="d3">1</data>
     </edge>
     <edge source="SNA: Shanni Nationalities Army" target="People's Security Force">

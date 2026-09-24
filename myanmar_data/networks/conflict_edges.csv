@@ -1,16 +1,13 @@
 source,target,weight
-Military Forces of Myanmar (2021-),Unidentified Anti-Coup Armed Group,3359
 Military Forces of Myanmar (2021-),KIO/KIA: Kachin Independence Organization/Kachin Independence Army,1595
 Military Forces of Myanmar (2021-),KNU/KNLA: Karen National Union/Karen National Liberation Army,1578
 Military Forces of Myanmar (2021-),ULA/AA: United League of Arakan/Arakan Army,1279
 Military Forces of Myanmar (2021-),PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army,792
 Military Forces of Myanmar (2021-),KNDF: Karenni Nationalities Defense Force,743
 Military Forces of Myanmar (2021-),MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army,510
-Unidentified Anti-Coup Armed Group,Pyu Saw Htee,450
 Military Forces of Myanmar (2021-),KNPP/KA: Karenni National Progressive Party/Karenni Army,435
 Military Forces of Myanmar (2021-),NLD: National League for Democracy,367
 Military Forces of Myanmar (2021-),People's Defense Force - Myaing,350
-Unidentified Anti-Coup Armed Group,Police Forces of Myanmar (2021-),281
 Military Forces of Myanmar (2021-),KPDF: Kachin Region People's Defense Force,247
 Military Forces of Myanmar (2021-),CNF/CNA: Chin National Front/Chin National Army,236
 Military Forces of Myanmar (2021-),ABSDF: All Burma Students' Democratic Front,203
@@ -35,6 +32,7 @@ Military Forces of Myanmar (2021-),Chinland Defense Force - Hakha,127
 Pyu Saw Htee,PDF: People's Defense Force,125
 Police Forces of Myanmar (2021-),PDF: People's Defense Force,124
 Military Forces of Myanmar (2021-),People's Defense Force - Yinmarbin District,121
+Military Forces of Myanmar (2021-),People's Defense Force - Loikaw,120
 Military Forces of Myanmar (2021-),People's Defense Force - Myeik District,118
 Military Forces of Myanmar (2021-),People's Defense Force - Sagaing District,113
 Military Forces of Myanmar (2021-),People's Security Force,111
@@ -49,12 +47,10 @@ Pyu Saw Htee,People's Defense Force - Shwebo District,79
 Police Forces of Myanmar (2021-),ULA/AA: United League of Arakan/Arakan Army,78
 KIO/KIA: Kachin Independence Organization/Kachin Independence Army,SNA: Shanni Nationalities Army,67
 Pyu Saw Htee,People's Defense Force - Pakokku District,66
-Unidentified Anti-Coup Armed Group,SNA: Shanni Nationalities Army,59
 Pyu Saw Htee,People's Defense Force - Monywa District,52
 Police Forces of Myanmar (2021-),People's Defense Force - Myingyan District,50
 Pyu Saw Htee,People's Defense Force - Myingyan District,49
 Pyu Saw Htee,People's Defense Force - Launglon,46
-Unidentified Anti-Coup Armed Group,PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army,43
 Police Forces of Myanmar (2021-),ABSDF: All Burma Students' Democratic Front,42
 PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army,Military Forces of Myanmar (2021-) People's Militia Force,40
 Pyu Saw Htee,People's Defense Force - Yesagyo,37
@@ -65,122 +61,111 @@ PDF: People's Defense Force,SNA: Shanni Nationalities Army,35
 Police Forces of Myanmar (2021-),People's Defense Force - Shwebo District,34
 Pyu Saw Htee,People's Security Force,32
 Police Forces of Myanmar (2021-),People's Defense Force - Pakokku District,32
-Military Forces of Myanmar (2021-) Border Guard Force,Cobra Column,31
 Police Forces of Myanmar (2021-),People's Defense Force - Gangaw District,31
+Military Forces of Myanmar (2021-) Border Guard Force,Cobra Column,31
 Pyu Saw Htee,CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw,29
 Pyu Saw Htee,People's Defense Force - Sagaing District,29
 Police Forces of Myanmar (2021-),KPDF: Kachin Region People's Defense Force,29
 Military Forces of Myanmar (2021-),SSPP/SSA-N: Shan State Progress Party/Shan State Army-North,27
 Police Forces of Myanmar (2021-),CNF/CNA: Chin National Front/Chin National Army,27
-Pyu Saw Htee,People's Defense Force - Yinmarbin District,26
 Police Forces of Myanmar (2021-),People's Defense Force - Sagaing District,26
-Police Forces of Myanmar (2021-),PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army,25
-Police Forces of Myanmar (2021-),People's Defense Force - Yinmarbin District,25
+Pyu Saw Htee,People's Defense Force - Yinmarbin District,26
 KNDF: Karenni Nationalities Defense Force,PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army,25
 Pyu Saw Htee,ABSDF: All Burma Students' Democratic Front,25
 Pyu Saw Htee,Kani People's Defense Force - KLG,25
+Police Forces of Myanmar (2021-),People's Defense Force - Yinmarbin District,25
+Police Forces of Myanmar (2021-),PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army,25
 Pyu Saw Htee,KNU/KNLA: Karen National Union/Karen National Liberation Army,24
-Unidentified Anti-Coup Armed Group,Military Forces of Myanmar (2021-) People's Militia Force,24
-Pyu Saw Htee,People's Defense Force - Kalay,23
-Pyu Saw Htee,People's Defense Force - Gangaw District,23
 Police Forces of Myanmar (2021-),KNDF: Karenni Nationalities Defense Force,23
-PDF: People's Defense Force,Military Forces of Myanmar (2021-) People's Militia Force,22
+Pyu Saw Htee,People's Defense Force - Gangaw District,23
+Pyu Saw Htee,People's Defense Force - Kalay,23
+Police Forces of Myanmar (2021-),People's Defense Force - Mandalay,22
 Police Forces of Myanmar (2021-),CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw,22
 KIO/KIA: Kachin Independence Organization/Kachin Independence Army,Military Forces of Myanmar (2021-) Border Guard Force,22
-Police Forces of Myanmar (2021-),People's Defense Force - Mandalay,22
+PDF: People's Defense Force,Military Forces of Myanmar (2021-) People's Militia Force,22
 KPDF: Kachin Region People's Defense Force,SNA: Shanni Nationalities Army,21
 Police Forces of Myanmar (2021-),People's Security Force,20
-Police Forces of Myanmar (2021-),People's Defense Force - Launglon,19
 Pyu Saw Htee,NLD: National League for Democracy,19
+Police Forces of Myanmar (2021-),People's Defense Force - Launglon,19
 Police Forces of Myanmar (2021-),Chinland Defense Force - Hakha,18
 Police Forces of Myanmar (2021-),People's Defense Force - Yesagyo,17
 Military Forces of Myanmar (2021-) Border Guard Force,KNDO: Karen National Defence Organization,17
+Police Forces of Myanmar (2021-),Chinland Defense Force - Thantlang,16
 Police Forces of Myanmar (2021-),KNDO: Karen National Defence Organization,15
+PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army,People's Defense Force - Pekon,13
 Pyu Saw Htee,People's Defense Force - Mandalay,13
 Pyu Saw Htee,People's Defense Force - Myeik District,13
-PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army,People's Defense Force - Pekon,13
-Police Forces of Myanmar (2021-),KNPP/KA: Karenni National Progressive Party/Karenni Army,12
-Military Forces of Myanmar (2021-) People's Militia Force,KPDF: Kachin Region People's Defense Force,12
 PDF: People's Defense Force,Government of Myanmar (2021-) State Administration Council,12
+Military Forces of Myanmar (2021-) People's Militia Force,KPDF: Kachin Region People's Defense Force,12
+Police Forces of Myanmar (2021-),KNPP/KA: Karenni National Progressive Party/Karenni Army,12
 Police Forces of Myanmar (2021-),MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army,10
-Police Forces of Myanmar (2021-),Kani People's Defense Force - KLG,10
 Pyu Saw Htee,KIO/KIA: Kachin Independence Organization/Kachin Independence Army,10
+Police Forces of Myanmar (2021-),Kani People's Defense Force - KLG,10
+ULA/AA: United League of Arakan/Arakan Army,Military Forces of Myanmar (2021-) People's Militia Force,9
 Police Forces of Myanmar (2021-),People's Defense Force - Demoso,9
 Police Forces of Myanmar (2021-),Chinland Defense Force - Mindat,9
-ULA/AA: United League of Arakan/Arakan Army,Military Forces of Myanmar (2021-) People's Militia Force,9
-Unidentified Armed Group (Myanmar),Military Forces of Myanmar (2021-) Border Guard Force,8
-Pyu Saw Htee,KNDO: Karen National Defence Organization,7
 KNPP/KA: Karenni National Progressive Party/Karenni Army,PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army,7
-SSPP/SSA-N: Shan State Progress Party/Shan State Army-North,PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army,7
 Pyu Saw Htee,CNO/CNDF: Chin National Organization/Chin National Defense Force,7
+SSPP/SSA-N: Shan State Progress Party/Shan State Army-North,PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army,7
+Pyu Saw Htee,KNDO: Karen National Defence Organization,7
+Police Forces of Myanmar (2021-),People's Defense Force - Kalay,6
 SNA: Shanni Nationalities Army,People's Security Force,6
 Military Forces of Myanmar (2021-) Border Guard Force,KPDF: Kachin Region People's Defense Force,6
-Police Forces of Myanmar (2021-),People's Defense Force - Kalay,6
 People's Defense Force - Demoso,PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army,5
-Police Forces of Myanmar (2021-),People's Defense Force - Myeik District,5
-Unidentified Anti-Coup Armed Group,Unidentified Armed Group (Myanmar),5
 MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army,Military Forces of Myanmar (2021-) Border Guard Force,5
+Police Forces of Myanmar (2021-),People's Defense Force - Myeik District,5
 Police Forces of Myanmar (2021-),Cobra Column,4
-Police Forces of Myanmar (2021-),CNO/CNDF: Chin National Organization/Chin National Defense Force,4
-Police Forces of Myanmar (2021-),People's Defense Force - Pekon,4
 PDF: People's Defense Force,PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army,4
+Police Forces of Myanmar (2021-),People's Defense Force - Pekon,4
+Police Forces of Myanmar (2021-),People's Defense Force - Loikaw,4
+Police Forces of Myanmar (2021-),CNO/CNDF: Chin National Organization/Chin National Defense Force,4
 Pyu Saw Htee,KPDF: Kachin Region People's Defense Force,4
 Pyu Saw Htee,Government of Myanmar (2016-),4
-KNU/KNLA: Karen National Union/Karen National Liberation Army,Government of Myanmar (2021-) State Administration Council,4
 ULA/AA: United League of Arakan/Arakan Army,Government of Myanmar (2021-) State Administration Council,4
-ULA/AA: United League of Arakan/Arakan Army,Military Forces of Myanmar (2021-) Border Guard Force,3
-Pyu Saw Htee,PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army,3
-KNU/KNLA: Karen National Union/Karen National Liberation Army,Military Forces of Myanmar (2021-) People's Militia Force,3
-ULA/AA: United League of Arakan/Arakan Army,CNF/CNA: Chin National Front/Chin National Army,3
-Military Forces of Myanmar (2021-) People's Militia Force,People's Security Force,3
-People's Defense Force - Myaing,Military Forces of Myanmar (2021-) People's Militia Force,3
-Unidentified Armed Group (Myanmar),People's Defense Force - Launglon,3
-SNA: Shanni Nationalities Army,ABSDF: All Burma Students' Democratic Front,3
-Unidentified Armed Group (Myanmar),PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army,3
+KNU/KNLA: Karen National Union/Karen National Liberation Army,Government of Myanmar (2021-) State Administration Council,4
 MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army,Government of Myanmar (2021-) State Administration Council,3
-NLD: National League for Democracy,Military Forces of Myanmar (2021-) Border Guard Force,2
-Unidentified Armed Group (Myanmar),People's Defense Force - Kalay,2
-Government of Myanmar (2021-) State Administration Council,People's Defense Force - Yesagyo,2
-Unidentified Armed Group (Myanmar),CNF/CNA: Chin National Front/Chin National Army,2
-Government of Myanmar (2021-) State Administration Council,People's Defense Force - Launglon,2
-Pyu Saw Htee,Chinland Defense Force - Hakha,2
+KNU/KNLA: Karen National Union/Karen National Liberation Army,Military Forces of Myanmar (2021-) People's Militia Force,3
+Military Forces of Myanmar (2021-) People's Militia Force,People's Security Force,3
+Pyu Saw Htee,PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army,3
+ULA/AA: United League of Arakan/Arakan Army,Military Forces of Myanmar (2021-) Border Guard Force,3
+SNA: Shanni Nationalities Army,ABSDF: All Burma Students' Democratic Front,3
+ULA/AA: United League of Arakan/Arakan Army,CNF/CNA: Chin National Front/Chin National Army,3
+People's Defense Force - Myaing,Military Forces of Myanmar (2021-) People's Militia Force,3
 KNPP/KA: Karenni National Progressive Party/Karenni Army,Military Forces of Myanmar (2021-) Border Guard Force,2
-Government of Myanmar (2021-) State Administration Council,People's Defense Force - Myeik District,2
 KNDF: Karenni Nationalities Defense Force,Military Forces of Myanmar (2021-) Border Guard Force,2
+Pyu Saw Htee,Chinland Defense Force - Hakha,2
+Government of Myanmar (2021-) State Administration Council,People's Defense Force - Yesagyo,2
+Government of Myanmar (2021-) State Administration Council,People's Defense Force - Myeik District,2
+Government of Myanmar (2021-) State Administration Council,People's Defense Force - Launglon,2
+NLD: National League for Democracy,Military Forces of Myanmar (2021-) Border Guard Force,2
+Police Forces of Myanmar (2021-),SSPP/SSA-N: Shan State Progress Party/Shan State Army-North,1
 Pyu Saw Htee,ULA/AA: United League of Arakan/Arakan Army,1
+Pyu Saw Htee,Chinland Defense Force - Thantlang,1
 Pyu Saw Htee,Chinland Defense Force - Mindat,1
 Pyu Saw Htee,CNF/CNA: Chin National Front/Chin National Army,1
-Police Forces of Myanmar (2021-),SSPP/SSA-N: Shan State Progress Party/Shan State Army-North,1
+Government of Myanmar (2021-) State Administration Council,RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South,1
+PDF: People's Defense Force,Police Forces of Myanmar (2021-) Border Guard Police,1
+KNU/KNLA: Karen National Union/Karen National Liberation Army,Police Forces of Myanmar (2021-) Border Guard Police,1
+Government of Myanmar (2021-) State Administration Council,People's Defense Force - Yinmarbin District,1
+Government of Myanmar (2021-) State Administration Council,Chinland Defense Force - Hakha,1
+KNDF: Karenni Nationalities Defense Force,Military Forces of Myanmar (2021-) People's Militia Force,1
+PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army,Government of Myanmar (2021-) State Administration Council,1
 KIO/KIA: Kachin Independence Organization/Kachin Independence Army,Government of Myanmar (2021-) State Administration Council,1
 ULA/AA: United League of Arakan/Arakan Army,Chinland Defense Force - Mindat,1
-KNU/KNLA: Karen National Union/Karen National Liberation Army,Police Forces of Myanmar (2021-) Border Guard Police,1
-Government of Myanmar (2021-) State Administration Council,People's Security Force,1
-Government of Myanmar (2021-) State Administration Council,RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South,1
-PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army,Government of Myanmar (2021-) State Administration Council,1
-Unidentified Armed Group (Myanmar),CNO/CNDF: Chin National Organization/Chin National Defense Force,1
-Government of Myanmar (2021-) State Administration Council,Chinland Defense Force - Hakha,1
-Government of Myanmar (2021-) State Administration Council,People's Defense Force - Yinmarbin District,1
-Unidentified Armed Group (Myanmar),KPDF: Kachin Region People's Defense Force,1
-PDF: People's Defense Force,Police Forces of Myanmar (2021-) Border Guard Police,1
-Unidentified Armed Group (Myanmar),Police Forces of Myanmar (2021-) Border Guard Police,1
-Unidentified Armed Group (Myanmar),PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army,1
-Unidentified Armed Group (Myanmar),CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw,1
-Unidentified Armed Group (Myanmar),RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South,1
-KNDF: Karenni Nationalities Defense Force,Military Forces of Myanmar (2021-) People's Militia Force,1
-Unidentified Armed Group (Myanmar),MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army,1
-Military Forces of Myanmar (2021-) People's Militia Force,ABSDF: All Burma Students' Democratic Front,1
-Military Forces of Myanmar (2021-) People's Militia Force,Chinland Defense Force - Hakha,1
-Military Forces of Myanmar (2021-) People's Militia Force,RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South,1
-Military Forces of Myanmar (2021-) People's Militia Force,People's Defense Force - Myingyan District,1
 Government of Myanmar (2021-) State Administration Council,People's Defense Force - Myingyan District,1
+Military Forces of Myanmar (2021-) People's Militia Force,ABSDF: All Burma Students' Democratic Front,1
+Military Forces of Myanmar (2021-) People's Militia Force,People's Defense Force - Myingyan District,1
+Military Forces of Myanmar (2021-) People's Militia Force,RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South,1
+Military Forces of Myanmar (2021-) People's Militia Force,Chinland Defense Force - Hakha,1
+Government of Myanmar (2021-) State Administration Council,People's Security Force,1
 Government of Myanmar (2021-) State Administration Council,KNDO: Karen National Defence Organization,1
 Government of Myanmar (2021-) State Administration Council,ABSDF: All Burma Students' Democratic Front,1
 KNPP/KA: Karenni National Progressive Party/Karenni Army,Military Forces of Myanmar (2021-) People's Militia Force,1
 Government of Myanmar (2021-) State Administration Council,People's Defense Force - Shwebo District,1
-SNA: Shanni Nationalities Army,People's Defense Force - Sagaing District,1
+SNA: Shanni Nationalities Army,People's Defense Force - Yinmarbin District,1
 Military Forces of Myanmar (2021-) Border Guard Force,People's Defense Force - Pakokku District,1
 Military Forces of Myanmar (2021-) Border Guard Force,People's Defense Force - Monywa District,1
-SNA: Shanni Nationalities Army,People's Defense Force - Yinmarbin District,1
 SNA: Shanni Nationalities Army,People's Defense Force - Monywa District,1
 SNA: Shanni Nationalities Army,People's Defense Force - Shwebo District,1
+SNA: Shanni Nationalities Army,People's Defense Force - Sagaing District,1
 Chinland Defense Force - Mindat,Chinland Defense Force - Hakha,1

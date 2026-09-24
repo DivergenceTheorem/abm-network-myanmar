@@ -17,21 +17,27 @@ COLUMNS = ["event_date", "event_type", "actor1", "assoc_actor_1", "actor2", "ass
 TOP_N = 50
 
 
-# List non-combatant group from the sample. They usually have country name in brackets next to them.
+# Non-combatant groups: ACLED names them "<Group> (<Country>)", e.g. "Women (Myanmar)".
 NON_COMBATANT = re.compile(
     r"\((Myanmar|China|North Korea|South Korea|Hong Kong|Japan|Taiwan|Mongolia|Bangladesh|India|"
     r"Pakistan|Thailand|Vietnam|Philippines|Indonesia|Kyrgyzstan|Ethiopia|Uganda|"
     r"United States|United Kingdom|International)\)$"
 )
-
-ARMED_KEYWORDS = re.compile(r"Militia|Unidentified|Security Forces")
+# Armed groups that share that suffix and must be kept.
+ARMED_KEYWORDS = re.compile(r"Militia|Security Forces")
+# Catch-all labels that don't identify a real actor.
+UNIDENTIFIED = re.compile(r"Unidentified")
 
 
 # --- Data loading ---
 
-def is_non_combatant(actor):
-    """True for civilian / identity / occupational groups that are not armed actors."""
-    return bool(NON_COMBATANT.search(actor)) and not ARMED_KEYWORDS.search(actor)
+def is_excluded(actor):
+    """True for actors left out of the networks: non-combatant groups and unidentified catch-alls."""
+    if UNIDENTIFIED.search(actor):
+        return True
+    if NON_COMBATANT.search(actor) and not ARMED_KEYWORDS.search(actor):
+        return True
+    return False
 
 
 def load_events(csv_path=DEFAULT_CSV, event_types=EVENT_TYPES):
@@ -47,7 +53,7 @@ def parse_actors(main_actor, assoc_actor):
         actors.append(str(main_actor).strip())
     if pd.notna(assoc_actor) and str(assoc_actor).strip():
         actors.extend(a.strip() for a in str(assoc_actor).split(";") if a.strip())
-    actors = [a for a in actors if not is_non_combatant(a)]
+    actors = [a for a in actors if not is_excluded(a)]
     return list(dict.fromkeys(actors))  # dedupe, preserve order
 
 
