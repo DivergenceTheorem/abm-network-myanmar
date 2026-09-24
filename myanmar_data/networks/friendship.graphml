@@ -1,0 +1,720 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d2" for="node" attr.name="rank" attr.type="long" />
+  <key id="d1" for="node" attr.name="events" attr.type="long" />
+  <key id="d0" for="graph" attr.name="relation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Military Forces of Myanmar (2021-)">
+      <data key="d1">28585</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Unidentified Anti-Coup Armed Group">
+      <data key="d1">3623</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Police Forces of Myanmar (2021-)">
+      <data key="d1">3159</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="Pyu Saw Htee">
+      <data key="d1">2834</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="KIO/KIA: Kachin Independence Organization/Kachin Independence Army">
+      <data key="d1">1719</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="KNU/KNLA: Karen National Union/Karen National Liberation Army">
+      <data key="d1">1679</data>
+      <data key="d2">6</data>
+    </node>
+    <node id="ULA/AA: United League of Arakan/Arakan Army">
+      <data key="d1">1429</data>
+      <data key="d2">7</data>
+    </node>
+    <node id="PDF: People's Defense Force">
+      <data key="d1">1282</data>
+      <data key="d2">8</data>
+    </node>
+    <node id="Unidentified Armed Group (Myanmar)">
+      <data key="d1">1023</data>
+      <data key="d2">9</data>
+    </node>
+    <node id="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
+      <data key="d1">910</data>
+      <data key="d2">10</data>
+    </node>
+    <node id="KNDF: Karenni Nationalities Defense Force">
+      <data key="d1">761</data>
+      <data key="d2">11</data>
+    </node>
+    <node id="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army">
+      <data key="d1">547</data>
+      <data key="d2">12</data>
+    </node>
+    <node id="Government of Myanmar (2021-) State Administration Council">
+      <data key="d1">524</data>
+      <data key="d2">13</data>
+    </node>
+    <node id="KNPP/KA: Karenni National Progressive Party/Karenni Army">
+      <data key="d1">442</data>
+      <data key="d2">14</data>
+    </node>
+    <node id="NLD: National League for Democracy">
+      <data key="d1">399</data>
+      <data key="d2">15</data>
+    </node>
+    <node id="People's Defense Force - Myaing">
+      <data key="d1">396</data>
+      <data key="d2">16</data>
+    </node>
+    <node id="Military Forces of Myanmar (2021-) People's Militia Force">
+      <data key="d1">357</data>
+      <data key="d2">17</data>
+    </node>
+    <node id="Military Forces of Myanmar (2021-) Border Guard Force">
+      <data key="d1">309</data>
+      <data key="d2">18</data>
+    </node>
+    <node id="CNF/CNA: Chin National Front/Chin National Army">
+      <data key="d1">273</data>
+      <data key="d2">19</data>
+    </node>
+    <node id="People's Defense Force - Mandalay">
+      <data key="d1">267</data>
+      <data key="d2">20</data>
+    </node>
+    <node id="KPDF: Kachin Region People's Defense Force">
+      <data key="d1">263</data>
+      <data key="d2">21</data>
+    </node>
+    <node id="SNA: Shanni Nationalities Army">
+      <data key="d1">226</data>
+      <data key="d2">22</data>
+    </node>
+    <node id="Military Forces of North Korea (2011-)">
+      <data key="d1">226</data>
+      <data key="d2">23</data>
+    </node>
+    <node id="People's Defense Force - Shwebo District">
+      <data key="d1">213</data>
+      <data key="d2">24</data>
+    </node>
+    <node id="ABSDF: All Burma Students' Democratic Front">
+      <data key="d1">212</data>
+      <data key="d2">25</data>
+    </node>
+    <node id="People's Defense Force - Monywa District">
+      <data key="d1">212</data>
+      <data key="d2">26</data>
+    </node>
+    <node id="People's Defense Force - Myingyan District">
+      <data key="d1">204</data>
+      <data key="d2">27</data>
+    </node>
+    <node id="People's Defense Force - Demoso">
+      <data key="d1">201</data>
+      <data key="d2">28</data>
+    </node>
+    <node id="SSPP/SSA-N: Shan State Progress Party/Shan State Army-North">
+      <data key="d1">200</data>
+      <data key="d2">29</data>
+    </node>
+    <node id="Police Forces of Myanmar (2021-) Border Guard Police">
+      <data key="d1">191</data>
+      <data key="d2">30</data>
+    </node>
+    <node id="Government of Myanmar (2016-)">
+      <data key="d1">191</data>
+      <data key="d2">31</data>
+    </node>
+    <node id="People's Defense Force - Pakokku District">
+      <data key="d1">182</data>
+      <data key="d2">32</data>
+    </node>
+    <node id="KNDO: Karen National Defence Organization">
+      <data key="d1">181</data>
+      <data key="d2">33</data>
+    </node>
+    <node id="Chinland Defense Force - Mindat">
+      <data key="d1">174</data>
+      <data key="d2">34</data>
+    </node>
+    <node id="People's Defense Force - Kalay">
+      <data key="d1">170</data>
+      <data key="d2">35</data>
+    </node>
+    <node id="RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South">
+      <data key="d1">163</data>
+      <data key="d2">36</data>
+    </node>
+    <node id="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
+      <data key="d1">163</data>
+      <data key="d2">37</data>
+    </node>
+    <node id="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
+      <data key="d1">157</data>
+      <data key="d2">38</data>
+    </node>
+    <node id="People's Defense Force - Yesagyo">
+      <data key="d1">152</data>
+      <data key="d2">39</data>
+    </node>
+    <node id="People's Defense Force - Pekon">
+      <data key="d1">145</data>
+      <data key="d2">40</data>
+    </node>
+    <node id="People's Security Force">
+      <data key="d1">141</data>
+      <data key="d2">41</data>
+    </node>
+    <node id="Chinland Defense Force - Hakha">
+      <data key="d1">138</data>
+      <data key="d2">42</data>
+    </node>
+    <node id="CNO/CNDF: Chin National Organization/Chin National Defense Force">
+      <data key="d1">137</data>
+      <data key="d2">43</data>
+    </node>
+    <node id="Kani People's Defense Force - KLG">
+      <data key="d1">134</data>
+      <data key="d2">44</data>
+    </node>
+    <node id="Cobra Column">
+      <data key="d1">134</data>
+      <data key="d2">45</data>
+    </node>
+    <node id="People's Defense Force - Launglon">
+      <data key="d1">129</data>
+      <data key="d2">46</data>
+    </node>
+    <node id="People's Defense Force - Yinmarbin District">
+      <data key="d1">129</data>
+      <data key="d2">47</data>
+    </node>
+    <node id="People's Defense Force - Gangaw District">
+      <data key="d1">129</data>
+      <data key="d2">48</data>
+    </node>
+    <node id="People's Defense Force - Myeik District">
+      <data key="d1">127</data>
+      <data key="d2">49</data>
+    </node>
+    <node id="People's Defense Force - Sagaing District">
+      <data key="d1">123</data>
+      <data key="d2">50</data>
+    </node>
+    <edge source="Unidentified Anti-Coup Armed Group" target="KPDF: Kachin Region People's Defense Force">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Myeik District">
+      <data key="d3">27</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Pekon">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Myingyan District">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Gangaw District">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Demoso">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="SSPP/SSA-N: Shan State Progress Party/Shan State Army-North">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="CNO/CNDF: Chin National Organization/Chin National Defense Force">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="Cobra Column">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="KNPP/KA: Karenni National Progressive Party/Karenni Army">
+      <data key="d3">33</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="Kani People's Defense Force - KLG">
+      <data key="d3">39</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="Chinland Defense Force - Mindat">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Kalay">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="KNDF: Karenni Nationalities Defense Force">
+      <data key="d3">96</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="Chinland Defense Force - Hakha">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Launglon">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="CNF/CNA: Chin National Front/Chin National Army">
+      <data key="d3">30</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Mandalay">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="KIO/KIA: Kachin Independence Organization/Kachin Independence Army">
+      <data key="d3">225</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
+      <data key="d3">84</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Pakokku District">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Myaing">
+      <data key="d3">79</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Monywa District">
+      <data key="d3">31</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="ABSDF: All Burma Students' Democratic Front">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="KNDO: Karen National Defence Organization">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Sagaing District">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="Unidentified Anti-Coup Armed Group" target="People's Defense Force - Yesagyo">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="Military Forces of Myanmar (2021-) Border Guard Force">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Police Forces of Myanmar (2021-)" target="Police Forces of Myanmar (2021-) Border Guard Police">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="SNA: Shanni Nationalities Army">
+      <data key="d3">40</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="Military Forces of Myanmar (2021-) People's Militia Force">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="Pyu Saw Htee" target="Military Forces of Myanmar (2021-) Border Guard Force">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="ABSDF: All Burma Students' Democratic Front">
+      <data key="d3">70</data>
+    </edge>
+    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="People's Security Force">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="KPDF: Kachin Region People's Defense Force">
+      <data key="d3">246</data>
+    </edge>
+    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="ULA/AA: United League of Arakan/Arakan Army">
+      <data key="d3">55</data>
+    </edge>
+    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="CNO/CNDF: Chin National Organization/Chin National Defense Force">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="SSPP/SSA-N: Shan State Progress Party/Shan State Army-North">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="KIO/KIA: Kachin Independence Organization/Kachin Independence Army" target="PDF: People's Defense Force">
+      <data key="d3">286</data>
+    </edge>
+    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="People's Security Force">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="Cobra Column">
+      <data key="d3">95</data>
+    </edge>
+    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="KNDF: Karenni Nationalities Defense Force">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="PDF: People's Defense Force">
+      <data key="d3">396</data>
+    </edge>
+    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="KNPP/KA: Karenni National Progressive Party/Karenni Army">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="People's Defense Force - Myeik District">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="ABSDF: All Burma Students' Democratic Front">
+      <data key="d3">27</data>
+    </edge>
+    <edge source="KNU/KNLA: Karen National Union/Karen National Liberation Army" target="KNDO: Karen National Defence Organization">
+      <data key="d3">76</data>
+    </edge>
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="KPDF: Kachin Region People's Defense Force">
+      <data key="d3">23</data>
+    </edge>
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="PDF: People's Defense Force">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="ABSDF: All Burma Students' Democratic Front">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="People's Defense Force - Gangaw District">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="SSPP/SSA-N: Shan State Progress Party/Shan State Army-North">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="KNDF: Karenni Nationalities Defense Force">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="ULA/AA: United League of Arakan/Arakan Army" target="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="CNO/CNDF: Chin National Organization/Chin National Defense Force">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Demoso">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="Cobra Column">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Myeik District">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="KNPP/KA: Karenni National Progressive Party/Karenni Army">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="KNDF: Karenni Nationalities Defense Force">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Mandalay">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="KPDF: Kachin Region People's Defense Force">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="SSPP/SSA-N: Shan State Progress Party/Shan State Army-North">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Sagaing District">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="ABSDF: All Burma Students' Democratic Front">
+      <data key="d3">46</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Myaing">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Gangaw District">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Monywa District">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Shwebo District">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Myingyan District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="Kani People's Defense Force - KLG">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="Unidentified Armed Group (Myanmar)">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="Chinland Defense Force - Mindat">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Kalay">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Pakokku District">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Pekon">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="Chinland Defense Force - Hakha">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PDF: People's Defense Force" target="People's Defense Force - Launglon">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Unidentified Armed Group (Myanmar)" target="Government of Myanmar (2016-)">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Unidentified Armed Group (Myanmar)" target="People's Defense Force - Demoso">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Unidentified Armed Group (Myanmar)" target="People's Security Force">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army" target="KNDF: Karenni Nationalities Defense Force">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="KNDF: Karenni Nationalities Defense Force" target="MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="KNDF: Karenni Nationalities Defense Force" target="People's Defense Force - Pekon">
+      <data key="d3">87</data>
+    </edge>
+    <edge source="KNDF: Karenni Nationalities Defense Force" target="People's Defense Force - Demoso">
+      <data key="d3">114</data>
+    </edge>
+    <edge source="KNDF: Karenni Nationalities Defense Force" target="KNPP/KA: Karenni National Progressive Party/Karenni Army">
+      <data key="d3">377</data>
+    </edge>
+    <edge source="KNDF: Karenni Nationalities Defense Force" target="SSPP/SSA-N: Shan State Progress Party/Shan State Army-North">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Government of Myanmar (2021-) State Administration Council" target="Military Forces of Myanmar (2021-) Border Guard Force">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Government of Myanmar (2021-) State Administration Council" target="Military Forces of Myanmar (2021-) People's Militia Force">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="KNPP/KA: Karenni National Progressive Party/Karenni Army" target="People's Defense Force - Demoso">
+      <data key="d3">85</data>
+    </edge>
+    <edge source="KNPP/KA: Karenni National Progressive Party/Karenni Army" target="People's Defense Force - Pekon">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="NLD: National League for Democracy" target="Government of Myanmar (2016-)">
+      <data key="d3">87</data>
+    </edge>
+    <edge source="People's Defense Force - Myaing" target="People's Security Force">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="People's Defense Force - Myaing" target="People's Defense Force - Monywa District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Defense Force - Myaing" target="ABSDF: All Burma Students' Democratic Front">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="People's Defense Force - Myaing" target="People's Defense Force - Shwebo District">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="People's Defense Force - Myaing" target="People's Defense Force - Myingyan District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Defense Force - Myaing" target="People's Defense Force - Pakokku District">
+      <data key="d3">60</data>
+    </edge>
+    <edge source="People's Defense Force - Myaing" target="People's Defense Force - Yesagyo">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="SNA: Shanni Nationalities Army">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Military Forces of Myanmar (2021-) People's Militia Force" target="Military Forces of Myanmar (2021-) Border Guard Force">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="CNF/CNA: Chin National Front/Chin National Army" target="People's Defense Force - Kalay">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="CNF/CNA: Chin National Front/Chin National Army" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="CNF/CNA: Chin National Front/Chin National Army" target="Chinland Defense Force - Hakha">
+      <data key="d3">80</data>
+    </edge>
+    <edge source="People's Defense Force - Mandalay" target="People's Defense Force - Yesagyo">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="People's Defense Force - Mandalay" target="People's Defense Force - Shwebo District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Defense Force - Mandalay" target="People's Defense Force - Myingyan District">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="People's Defense Force - Mandalay" target="People's Defense Force - Sagaing District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="KPDF: Kachin Region People's Defense Force" target="ABSDF: All Burma Students' Democratic Front">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="People's Defense Force - Shwebo District" target="People's Defense Force - Myingyan District">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="People's Defense Force - Shwebo District" target="People's Defense Force - Pakokku District">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="People's Defense Force - Shwebo District" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Defense Force - Shwebo District" target="People's Defense Force - Monywa District">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="People's Defense Force - Shwebo District" target="People's Security Force">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="People's Defense Force - Shwebo District" target="People's Defense Force - Gangaw District">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="People's Defense Force - Shwebo District" target="People's Defense Force - Sagaing District">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="People's Defense Force - Shwebo District" target="Kani People's Defense Force - KLG">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABSDF: All Burma Students' Democratic Front" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ABSDF: All Burma Students' Democratic Front" target="People's Defense Force - Pakokku District">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ABSDF: All Burma Students' Democratic Front" target="People's Defense Force - Gangaw District">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="ABSDF: All Burma Students' Democratic Front" target="People's Security Force">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABSDF: All Burma Students' Democratic Front" target="KNDO: Karen National Defence Organization">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABSDF: All Burma Students' Democratic Front" target="People's Defense Force - Myingyan District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABSDF: All Burma Students' Democratic Front" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="People's Defense Force - Monywa District" target="People's Defense Force - Sagaing District">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="People's Defense Force - Monywa District" target="People's Security Force">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="People's Defense Force - Monywa District" target="People's Defense Force - Myingyan District">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="People's Defense Force - Monywa District" target="People's Defense Force - Yesagyo">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="People's Defense Force - Monywa District" target="Kani People's Defense Force - KLG">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="People's Defense Force - Monywa District" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="People's Defense Force - Myingyan District" target="People's Defense Force - Yesagyo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Defense Force - Myingyan District" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Defense Force - Myingyan District" target="People's Defense Force - Sagaing District">
+      <data key="d3">28</data>
+    </edge>
+    <edge source="People's Defense Force - Myingyan District" target="People's Security Force">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="People's Defense Force - Myingyan District" target="People's Defense Force - Pakokku District">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="People's Defense Force - Demoso" target="People's Defense Force - Pekon">
+      <data key="d3">51</data>
+    </edge>
+    <edge source="Government of Myanmar (2016-)" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="People's Defense Force - Pakokku District" target="People's Security Force">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Defense Force - Pakokku District" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="People's Defense Force - Pakokku District" target="People's Defense Force - Yesagyo">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="People's Defense Force - Pakokku District" target="People's Defense Force - Gangaw District">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="KNDO: Karen National Defence Organization" target="Cobra Column">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="KNDO: Karen National Defence Organization" target="People's Defense Force - Launglon">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="KNDO: Karen National Defence Organization" target="People's Defense Force - Myeik District">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="Chinland Defense Force - Mindat" target="People's Defense Force - Gangaw District">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="Chinland Defense Force - Mindat" target="CNO/CNDF: Chin National Organization/Chin National Defense Force">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="People's Defense Force - Kalay" target="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw">
+      <data key="d3">54</data>
+    </edge>
+    <edge source="People's Defense Force - Kalay" target="Chinland Defense Force - Hakha">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="People's Defense Force - Kalay" target="CNO/CNDF: Chin National Organization/Chin National Defense Force">
+      <data key="d3">41</data>
+    </edge>
+    <edge source="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw" target="Chinland Defense Force - Hakha">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw" target="People's Defense Force - Gangaw District">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="People's Defense Force - Yesagyo" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Defense Force - Yesagyo" target="People's Defense Force - Sagaing District">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="People's Security Force" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="People's Security Force" target="People's Defense Force - Sagaing District">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="People's Security Force" target="Kani People's Defense Force - KLG">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="CNO/CNDF: Chin National Organization/Chin National Defense Force" target="People's Defense Force - Gangaw District">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Kani People's Defense Force - KLG" target="People's Defense Force - Yinmarbin District">
+      <data key="d3">27</data>
+    </edge>
+    <edge source="Kani People's Defense Force - KLG" target="People's Defense Force - Sagaing District">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="People's Defense Force - Yinmarbin District" target="People's Defense Force - Sagaing District">
+      <data key="d3">1</data>
+    </edge>
+    <data key="d0">friendship</data>
+  </graph>
+</graphml>

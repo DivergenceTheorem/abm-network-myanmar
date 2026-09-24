@@ -1,0 +1,37 @@
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# LaTeX build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bcf
+*.blg
+*.run.xml
+*.nav
+*.snm
+
+# Python cache
+*/__pycache__/
+__pycache__/
+
+# Claude setup
+.claude/
+claude.md
+
+#MLFlow files
+mlflow.db
+mlartifacts
