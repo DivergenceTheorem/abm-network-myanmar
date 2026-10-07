@@ -1,6 +1,6 @@
 # How Local Incentives Shape Conflict Network Formation: An Agent-Based Study of the Myanmar Civil War
 
-Code and data for **Kurmanov & Melo Ponce (2026)**, presented at the *Shaping Asia's Future: Development, Innovation, and Society in Transition* conference (Nazarbayev University, September 2026). The poster and slides are in [SAF26-conference/](SAF26-conference/).
+Code and data for **Kurmanov & Melo Ponce (2026)**, presented at the *Shaping Asia's Future: Development, Innovation, and Society in Transition* conference (Nazarbayev University, April 2026). The poster and slides are in [SAF26-conference/](SAF26-conference/).
 
 This project uses agent-based modeling to investigate why armed conflict actors in transitional Asian societies form stable coalition networks that generate collective welfare losses. By simulating decentralized strategic interactions among heterogeneous agents with limited information, it examines how local incentives, rivalries, and resource competition affect the emergence of inefficient conflict networks.
 
