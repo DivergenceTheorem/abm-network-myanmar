@@ -12,8 +12,9 @@ HERE = Path(__file__).resolve().parent
 DEFAULT_CSV = HERE / "myanmar_data.csv"
 DEFAULT_OUT = HERE / "networks"
 
+COUNTRY = "Myanmar"
 EVENT_TYPES = ["Battles", "Strategic developments"]
-COLUMNS = ["event_date", "event_type", "actor1", "assoc_actor_1", "actor2", "assoc_actor_2"]
+COLUMNS = ["event_date", "country", "event_type", "actor1", "assoc_actor_1", "actor2", "assoc_actor_2"]
 TOP_N = 50
 
 
@@ -40,10 +41,11 @@ def is_excluded(actor):
     return False
 
 
-def load_events(csv_path=DEFAULT_CSV, event_types=EVENT_TYPES):
-    """Load ACLED data, keep relevant columns and event types."""
+def load_events(csv_path=DEFAULT_CSV, event_types=EVENT_TYPES, country=COUNTRY):
+    """Load ACLED data, keep relevant columns, events in `country` and the given event types."""
     df = pd.read_csv(csv_path, usecols=COLUMNS)
-    return df[df["event_type"].isin(event_types)].reset_index(drop=True)
+    df = df[(df["country"] == country) & df["event_type"].isin(event_types)]
+    return df.reset_index(drop=True)
 
 
 def parse_actors(main_actor, assoc_actor):
