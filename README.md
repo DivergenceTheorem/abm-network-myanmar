@@ -36,13 +36,11 @@ The data covers ACLED events in Myanmar from 5 May 2021 to 17 March 2025.
         └── friendship_edges.csv
 ```
 
-The networks used on the poster are already in `networks/`, so you don't need to re-run anything to use them.
-
 ---
 
 ## 1. Environment setup
 
-The code is pure Python and has been run with **Python 3.13**. A virtual environment is recommended.
+The code has been run with **Python 3.13**. A virtual environment is recommended.
 
 ```bash
 python -m venv .venv
@@ -108,7 +106,7 @@ conflict_G, friendship_G = bn.build_networks(events, top_n=50)
 
 ### Events
 
-Only events located in **Myanmar** (ACLED `country` column) of type **Battles** or **Strategic developments** are kept. The raw export also covers neighbouring countries, which removes 468 such events. Violence against civilians is one-sided, so it carries no information about ties between armed actors.
+Only events located in **Myanmar** (ACLED `country` column) of type **Battles** or **Strategic developments** are kept. Violence against civilians is one-sided, so it carries no information about ties between armed actors.
 
 Each event has two sides. Side 1 is `actor1` plus `assoc_actor_1`, and side 2 is `actor2` plus `assoc_actor_2`. Associated actors are `;`-separated in ACLED, and duplicates within a side are removed.
 
